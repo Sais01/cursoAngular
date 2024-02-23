@@ -1,0 +1,28 @@
+{
+  "animals": [
+    {
+      "id": "3",
+      "name": "Frida",
+      "type": "Dog",
+      "age": 11
+    },
+    {
+      "id": "4",
+      "name": "Lob",
+      "type": "Dog",
+      "age": 11
+    },
+    {
+      "id": "5",
+      "name": "ROBERT",
+      "type": "Dog",
+      "age": 11
+    },
+    {
+      "id": "6",
+      "name": "Django",
+      "type": "Dog",
+      "age": 11
+    }
+  ]
+}
